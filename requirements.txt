@@ -5,4 +5,4 @@ Telethon==1.27.0
 pyromod==2.0.0
 pyrogram1==0.*
 TgCrypto==1.2.5
-pyrogram==2.0.100
+pyrogram==2.0.106
